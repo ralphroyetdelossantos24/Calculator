@@ -20,7 +20,7 @@ A simple web calculator for basic arithmetic operations with a modern UI and the
 
 1. **Clone the repository**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/ralphroyetdelossantos24/Calculator.git
    ```
 2. **Navigate to the project folder**
    ```sh
@@ -43,3 +43,4 @@ This project is open source and free to use.
 ## 🙏 Credits
 
 Created by Ralph Royet, December 2025.
+
